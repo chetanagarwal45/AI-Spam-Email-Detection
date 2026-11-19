@@ -1,0 +1,6 @@
+{
+  "name": "MailGuard — AI Spam Email Detection Workbench",
+  "description": "Full-stack NLP spam email and SMS classification system implementing regex normalization, sublinear uni-gram/bi-gram TF-IDF vectorization, and comparative Linear SVC, Multinomial Naive Bayes, and L2 Logistic Regression models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
